@@ -1,6 +1,7 @@
 # 👨‍💻 Coding Practice
 
-![GeeksforGeeks](![image](https://github.com/user-attachments/assets/e802d93c-b8e1-418c-9706-58b31990c529))
+![GeeksforGeeks](![0_ilw552fVUGbwIzbE](https://github.com/user-attachments/assets/cd971eda-e63c-434b-82ab-78fe9ee5462b)
+)
 
 I regularly practice coding problems on [GeeksforGeeks](https://www.geeksforgeeks.org/), improving my problem-solving and algorithmic skills.
 
